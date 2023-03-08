@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = mcdonalds
-build_property.ProjectDir = C:\Users\jan van foreest\OneDrive - Mediacollege Amsterdam\Documenten\ma2.1\bewijzenmap\periode3\flex\flex-csharp\mcdonalds\mcdonalds\
+build_property.RootNamespace = flexcsharpofficialstart
+build_property.ProjectDir = C:\Users\jan van foreest\OneDrive - Mediacollege Amsterdam\Documenten\ma2.1\bewijzenmap\periode3\flex\flex-csharp\flexcsharpofficialstart\flexcsharpofficialstart\

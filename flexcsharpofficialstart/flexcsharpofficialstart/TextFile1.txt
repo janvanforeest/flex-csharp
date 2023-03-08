@@ -1,0 +1,10 @@
+﻿int x5
+int camX
+int camY
+int lastkeydown
+int totalgoldpicked
+readonly int index
+
+string name 
+float runtime = 3
+bool nodoor = false
